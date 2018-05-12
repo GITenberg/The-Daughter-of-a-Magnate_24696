@@ -1,0 +1,30 @@
+_repo: The-Daughter-of-a-Magnate_24696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spearman, Frank H. (Frank Hamilton)
+    alias: Spearman, Frank Hamilton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '25772'
+    url: http://www.gutenberg.org/2009/agents/25772
+    wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
+description: ''
+gutenberg_issued: '2008-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Railroad engineers -- Fiction'
+- !lcsh 'Railroads -- Fiction'
+- !lcsh 'Railroad travel -- Southwest, New -- Fiction'
+title: The Daughter of a Magnate
+url: http://www.gutenberg.org/ebooks/24696
